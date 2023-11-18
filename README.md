@@ -1,5 +1,5 @@
-# ExecuteFusionSQL
-ExecuteFusionSQL is a web based solution to execute SQL for oracle fusion/SaaS
+# FusionSQLDeveloper
+FusionSQLDeveloper is a web based solution to execute SQL for oracle fusion/SaaS
 
 # Features
 - Web based custom solution
