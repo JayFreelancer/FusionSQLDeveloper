@@ -10,7 +10,8 @@ FusionSQLDeveloper is a web based solution to execute SQL for oracle fusion/SaaS
 To explore more or for demo, write us at jayfreelancer91@gmail.com
 
 # Lightweight and required features
-![image](https://github.com/JayFreelancer/FusionSQLDeveloper/assets/70473214/3d066ba7-f80e-451c-91fd-f09a3235970e)
+![image](https://github.com/JayFreelancer/FusionSQLDeveloper/assets/70473214/c84b40da-ae92-453a-ae3c-92fd4ecaf239)
+
 
 
 # Quick connectivity
